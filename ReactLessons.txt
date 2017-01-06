@@ -1,0 +1,33 @@
+A list of React courses that I am compiling as part of this learning exercise
+
+All egghead React courses
+https://egghead.io/technologies/react
+
+Getting started with Redux ~ 121 minutes ~ Dan Abramov
+https://egghead.io/courses/getting-started-with-redux
+
+Building React Applications with Idiomatic Redux ~ 137 minutes ~ Dan Abramov
+https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
+Start Using React to Build Web Applications ~ 66 minutes ~ Joe Maddalone
+https://egghead.io/courses/react-fundamentals
+
+Full-Stack Redux Tutorial ~ Tero Parviainen
+http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+
+React Training courses
+https://reacttraining.com/
+https://github.com/reactjsprogram
+
+React Fundamentals ~ Tyler McGinnis
+https://online.reacttraining.com/p/reactjsfundamentals
+Curriculum repo: https://github.com/ReactjsProgram/react-fundamentals-curriculum
+Video project repo: https://github.com/ReactjsProgram/React-Fundamentals
+
+ES6/7 for React ~ Tyler McGinnis
+https://online.reacttraining.com/p/es6forreact
+
+Redux + ImmutableJS ~ Tyler McGinnis ~ Course costs $245
+https://online.reacttraining.com/p/redux-and-immutablejs
+Repo video project: https://github.com/ReactjsProgram/Redux-Immutable
+Curriculum repo: https://github.com/ReactjsProgram/Redux-Immutable-Curriculum

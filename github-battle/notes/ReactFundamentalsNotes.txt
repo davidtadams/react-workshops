@@ -1,0 +1,81 @@
+React Ecosystem Video
+Imperative -> telling program how to do something
+Declarative -> telling program what you want to do
+  more concerned about what we want to do rather than how we want to do it
+  more of an abstraction
+  more functional programming
+    - reduces side effects
+    - minimizes mutability
+    - more readable once you get the hang of the way the code works
+
+React is mostly declarative
+takes the state outside of the DOM and into the React component
+the argument that react is declarative comes mostly from its components
+  - the components represent a declarative paradigm
+
+Composition
+  - breaking everything down into a component
+  - you can compose larger components out of smaller components
+
+Mutations
+  - you have to explicitly change state
+  - in react this is only with SetState
+
+This Course
+- React
+- React Router
+- Webpack
+- Babel
+- Axios
+
+Any new tool, always ask
+1. Why does this exist?
+2. What problem is it solving?
+
+
+Getting started
+$ npm install --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react
+
+Pure functions
+- consistency and predictability
+- always return the same result given the same input (args)
+- execution doesn't depend on the state of the application
+- don't modify variables outside of the scope of the function (no side effects)
+
+JS
+- slice is a pure function
+- splice is not (it mutates the array)
+
+React render method
+like F(d)=V
+function takes data and gives you a view
+
+React components
+FIRST
+Focused
+Independent
+Reusable
+Small
+Testable
+
+Stateless Functional Components
+- just a function that is stateless and
+- takes the place of a react component with just a render method
+
+Presentational vs Container Components
+
+Presentational components are stateless
+Presentational just takes in some data and renders a view
+example
+function HelloWorld (props) {
+  return (
+    <div>Hello {props.name}</div>
+  )
+}
+
+Stateless Functional Components do not support shouldComponentUpdate
+
+React PropTypes
+- can use React.PropTypes to check the type of a prop coming into a component
+for functions -> propTypes.func
+for booleans -> propTypes.bool

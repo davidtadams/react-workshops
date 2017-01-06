@@ -1,0 +1,7 @@
+Resources/links from React Fundamentals Course
+
+Pete Hunt - The Secrets of React's Virtual DOM
+https://www.youtube.com/watch?v=-DX3vJiqxm4
+
+React: Rethinking Best Practices (about use of JSX)
+http://www.slideshare.net/floydophone/react-preso-v2
