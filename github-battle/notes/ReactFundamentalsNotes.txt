@@ -1,3 +1,6 @@
+Notes from React Fundamentals Course by Tyler McGinnis
+https://online.reacttraining.com/p/reactjsfundamentals
+
 React Ecosystem Video
 Imperative -> telling program how to do something
 Declarative -> telling program what you want to do
